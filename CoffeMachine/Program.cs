@@ -66,7 +66,7 @@ namespace CoffeMachine
                 }
 
             }
-            while (!no); Console.WriteLine("Thank you for your order!" + "\nTotal to pay: " + total + "SEK");
+            while (!no); Console.WriteLine("Thank you for your order!" + "\nTotal to pay: " + total + " SEK");
                      
             
             
