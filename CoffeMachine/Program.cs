@@ -10,7 +10,6 @@ namespace CoffeMachine
             //Priset kommer att variera för varje storlek! Dessutom kommer programmet att skicka ett meddelande till användaren för att ta emot beställningen och fråga om användaren vill beställa mer inom samma beställning!
             //programmet kommer också att skriva ut det totala beloppet som användaren måste betala!
 
-
             bool no = false;
             int total = 0;
             do 
